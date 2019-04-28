@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Life Counter</string>
+    <string name="p1">PLAYER 1</string>
+    <string name="p2">PLAYER 2</string>
+    <string name="p3">PLAYER 3</string>
+    <string name="p4">PLAYER 4</string>
+    <string name="scr">SCORE</string>
+    <string name="btnAddOne">+</string>
+    <string name="btnMinusOne">-</string>
+    <string name="btnAddFive">+5</string>
+    <string name="btnMinusFive">-5</string>
+    <string name="count">0</string>
+    <string name="status">""</string>
+</resources>
+
